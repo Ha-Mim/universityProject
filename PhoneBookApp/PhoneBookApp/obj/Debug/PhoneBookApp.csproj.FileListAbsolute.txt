@@ -1,0 +1,9 @@
+F:\ContactNoApp\PhoneBookApp\PhoneBookApp\bin\Debug\PhoneBookApp.exe.config
+F:\ContactNoApp\PhoneBookApp\PhoneBookApp\bin\Debug\PhoneBookApp.exe
+F:\ContactNoApp\PhoneBookApp\PhoneBookApp\bin\Debug\PhoneBookApp.pdb
+F:\ContactNoApp\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.csprojResolveAssemblyReference.cache
+F:\ContactNoApp\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.UI.PhoneBookUI.resources
+F:\ContactNoApp\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.Properties.Resources.resources
+F:\ContactNoApp\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.csproj.GenerateResource.Cache
+F:\ContactNoApp\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.exe
+F:\ContactNoApp\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.pdb
